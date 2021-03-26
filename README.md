@@ -1,0 +1,2 @@
+# Workout Tracker
+A python scrypt that uses the [Nutritionix](https://www.nutritionix.com/business/api) API to process plain english workout descriptions into formatted data then enters them into Google Sheets using the [Sheety](https://sheety.co/) API.
